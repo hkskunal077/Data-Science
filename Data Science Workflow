@@ -1,0 +1,18 @@
+Data Science 101 - Practical Data Science with Python
+
+Data Science = Application of Scientific Principles and methods to data collection, analysis and reporting. Goal is to synthesize reliable and actionable insights from data (or data product). 
+SDLC prescribes the major phases of SE as init, requirements, design, construction, testing, deployment and maintenance, in DS it is init, data acquisition, preparation, analysis, reporting and execution of actions, one of the major aims is the automation of the complete process for reproducibility and quality.
+Main phases of a Data Science Project = Define the work-init-data source and APIs-analysis-integrate and transform-engineer features-select and train models-results-product-insights and past.
+The brown cow model WHAT-problem, HOW-solution and defined both for present and future.
+Brown Cow Model Case Study	
+Cholera Outbreak in London Data Science
+Project Init - Now How and What, Future How and What.
+Data Engineering 1 - Acquire, Prepare and Explore
+Data Analysis  1 - Strong Correlation by Deaths and Broad Street Pump. There is a fine difference between Causation and Correlation.
+Retrospective - (Enabler) - Randomized Control Experiment, so that he can reach from correlation to causality
+Data Engineering 2 - Covered all cases from all water suppliers. 
+Data Analysis 2 - People got sick by contaminated water. A causal relationship was much evident here.
+Reporting - Confidence in statements
+Action - Prevented further infections.
+Big Data requires Data Scientists - there are four Vs - Volume, Variety, Velocity and Veracity.
+A great example of a Big Data project is - MOOC Platforms satisfying all the four Vs, another data monster is that amount of information that travels due to IoT sensors.
